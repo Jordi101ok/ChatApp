@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Security.Claims;
 
-namespace MyApp.Server.Controllers;
+namespace ChatApp.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
